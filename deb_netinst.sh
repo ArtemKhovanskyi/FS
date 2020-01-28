@@ -5,4 +5,6 @@ apt update
 apt install -y $LIST_OF_APPS
 apt upgrade
 
+rm deb_netinst.sh
+
 shutdown -r +1
