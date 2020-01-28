@@ -5,4 +5,4 @@ apt update
 apt install -y $LIST_OF_APPS
 apt upgrade
 
-shutdown -r +6
+shutdown -r +1
